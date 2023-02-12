@@ -5,7 +5,7 @@ set t_Co=256
 colorscheme default
 syntax on
 
-" Sometime I uncomment this line to highlight typedefs in C
+" Sometimes I uncomment this line to highlight typedefs in C
 " syn match cType "[a-zA-Z_][a-zA-Z0-9_]*_[ft]" 
 
 " Main wrapping and formatting behavior
