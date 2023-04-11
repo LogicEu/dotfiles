@@ -1,4 +1,4 @@
 # dotfiles
 >
-> Configuration dot files for some of the programs I use
+> Configuration dotfiles for some of the programs I use.
 >
